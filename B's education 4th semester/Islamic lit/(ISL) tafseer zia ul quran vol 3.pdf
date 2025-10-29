@@ -1,0 +1,6 @@
+<script type="text/javascript">
+        setTimeout(function() {
+            alert("The download link is expired. You will be redirected to the book URL.");
+            window.location.href = "http://www.nafseislam.com/bookDetails/zia-ul-quran---jild-003_255686148a33577cf8031007706";
+        }, 0); // 5000 milliseconds or 5 seconds
+    </script>
